@@ -1,0 +1,18 @@
+Well,Component,Stock,Concentration[mM],Volume [uL]
+A1,MOPS,high,2000.0,770.0
+B1,Tricine,high,400.0,410.0
+C1,Glucose,high,3000.0,290.0
+D1,K2SO4,high,43.5,290.0
+A2,K2HPO4,high,396.0,170.0
+B2,NH4Cl,high,1904.0001,230.0
+C2,MgCl2,high,15.6,1250.0
+D2,NaCl,high,1500.0,1250.0
+A3,Kan,high,25.746,170.0
+B3,H3BO3,low,0.12,1250.0
+C3,FeSO4,low,0.3,1250.0
+D3,(NH4)6Mo7O24,low,0.0009,1250.0
+A4,CoCl2,low,0.009000000000000001,1250.0
+B4,CuSO4,low,0.003,1250.0
+C4,MnSO4,low,0.024,1250.0
+D4,ZnSO4,low,0.003,1250.0
+A5,Culture,,,410.0
