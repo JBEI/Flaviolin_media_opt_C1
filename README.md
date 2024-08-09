@@ -14,3 +14,6 @@ A schematic of the process is shown in the next figure:
 
 
 ![pipeline](pipeline.png)
+
+
+In the folder "benchmark runs" we have included comparisons between ART using parallel tempering, ART using differential evolution, gpCAM, and JMP
